@@ -95,4 +95,4 @@ tar.addfile(tarinfo=info, fileobj=string)
 tar.close()
 ```
 
-There are another interesting (unintended) solution is by inserting new line between `{{ }}` ( mentioned in https://furutsuki.hatenablog.com/entry/2020/09/06/230446 ). I haven't tried them tho.
+There are another interesting (unintended) solution is by inserting new line between `{{ }}` ( mentioned in https://furutsuki.hatenablog.com/entry/2020/09/06/230446 ). I haven't tried it tho.
