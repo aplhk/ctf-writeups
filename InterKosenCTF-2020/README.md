@@ -5,8 +5,8 @@
 https://score.kosenctf.com/index.html
 
 Solved:
-- Pash
-- Readme
-- Miniblog
+- [Pash](./pash)
+- [Readme](./readme)
+- [Miniblog](./miniblog)
 
 It was fun, enjoyed it.
