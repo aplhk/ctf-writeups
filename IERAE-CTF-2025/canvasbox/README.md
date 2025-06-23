@@ -96,7 +96,7 @@ So instead, we can call `window.open` on our own website, and access the `docume
 <img src="https://webhook.site/xxxxxxxxxxxx?ready" />
 ```
 
-## Some explaination to the code
+## Some explanation to the code
 
 ![image](https://github.com/user-attachments/assets/a49e78a5-ab4b-47e5-8129-eb7a57ec26e8)
 
